@@ -1,26 +1,26 @@
 #  常用套件
 
-* Bracket Pair Colorizer 2
+* Bracket Pair Colorizer 2<br>
 增加程式碼區塊辨識度
 
 &nbsp;
 
-* Material Icon Theme
+* Material Icon Theme<br>
 好看的icon主題
 
 &nbsp;
 
-* GlassIt-VSC
-vscode背景透明度調整
+* GlassIt-VSC<br>
+vscode背景透明度調整<br>
 快速鍵```Ctr+Alt+Z```提高透明度,```Ctr+Alt+C```降低透明度
 
 &nbsp;
 
-* background
-可在vscode背景套用自己選換的背景圖
-1.進入settings.json
+* background<br>
+可在vscode背景套用自己選換的背景圖<br>
+1.進入settings.json<br>
 2.貼上以下程式碼
-```json
+  ```json
   {
     "background.enabled": true,
     "background.useDefault": false,
