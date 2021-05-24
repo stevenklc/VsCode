@@ -1,7 +1,7 @@
 #  常用套件
 
 * Bracket Pair Colorizer 2<br>
-增加程式碼區塊辨識度
+增加程式碼區塊辨識度（括號）
 
 &nbsp;
 
@@ -47,3 +47,7 @@ vscode背景透明度調整<br>
     "editor.fontLigatures": null
   }
   ```
+
+
+* Highlight Line<br>
+選定的那行會有點線....方便辨識
